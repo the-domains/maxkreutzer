@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MaxKreutzer]]></title>
-        <description><![CDATA[MaxKreutzer]]></description>
+        <title><![CDATA[Shells and Space]]></title>
+        <description><![CDATA[Shells and Space]]></description>
         <link>https://thegrid.ai/maxkreutzer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 15:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 16:23:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maxkreutzer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Zen]]></title>
             <description><![CDATA[<article><h1>Zen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c738352-88aa-4995-99a1-7dcfc5ef2fb7.png"></article>]]></description>
             <link>https://thegrid.ai/maxkreutzer/zen/index.html</link>
             <guid isPermaLink="false">cee168b5-0e98-4f80-a977-0f5149eb2aad</guid>
-            <pubDate>Wed, 23 Mar 2016 15:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0db34463-a698-47ed-8ba8-3dfd6b8939d2.jpg">]]></description>
-            <link>https://thegrid.ai/maxkreutzer/8fa36261-2f5a-4745-bdc4-b9185b8812aa/index.html</link>
-            <guid isPermaLink="false">8fa36261-2f5a-4745-bdc4-b9185b8812aa</guid>
             <pubDate>Wed, 23 Mar 2016 15:10:28 GMT</pubDate>
         </item>
         <item>
@@ -43,13 +36,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9c97eae-492c-4b7a-bdb0-2e071498fbb7.jpg">]]></description>
-            <link>https://thegrid.ai/maxkreutzer/8e369303-b4c4-492d-8c58-8f18f739c028/index.html</link>
-            <guid isPermaLink="false">8e369303-b4c4-492d-8c58-8f18f739c028</guid>
-            <pubDate>Wed, 23 Mar 2016 15:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38160ec4-90a7-41f8-976a-64f3f539dd17.jpg">]]></description>
             <link>https://thegrid.ai/maxkreutzer/0e72d045-865b-4393-b8ac-718d73363ba1/index.html</link>
             <guid isPermaLink="false">0e72d045-865b-4393-b8ac-718d73363ba1</guid>
@@ -60,13 +46,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12616f74-f032-4563-bc57-a84bfa541238.jpg">]]></description>
             <link>https://thegrid.ai/maxkreutzer/58ff1cd0-078c-4886-ad46-fa04c56a565c/index.html</link>
             <guid isPermaLink="false">58ff1cd0-078c-4886-ad46-fa04c56a565c</guid>
-            <pubDate>Wed, 23 Mar 2016 15:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66643abe-553b-408a-b950-29597f8cd870.jpg">]]></description>
-            <link>https://thegrid.ai/maxkreutzer/httpwwwpostandcouriercomarticle20160319pc1216032998/index.html</link>
-            <guid isPermaLink="false">b14f5e4e-e977-407c-8333-812c483bf427</guid>
             <pubDate>Wed, 23 Mar 2016 15:10:26 GMT</pubDate>
         </item>
     </channel>
