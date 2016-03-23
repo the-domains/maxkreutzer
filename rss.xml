@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Shells and Space]]></title>
         <description><![CDATA[Shells and Space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxkreutzer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 16:56:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 16:59:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxkreutzer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Video Production Demo Reel]]></title>
+            <description><![CDATA[<article><h1>Video Production Demo Reel</h1><p>Uploaded by Max Kreutzer on 2015-09-27.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b90222cd66efa610253e60100be134a81440693c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=UunxvCcuDD8</link>
+            <guid isPermaLink="false">45c05266-1772-4b19-a3e7-7e31629fc687</guid>
+            <pubDate>Wed, 23 Mar 2016 16:59:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MaxKreutzer on lytro.com]]></title>
             <description><![CDATA[<article><h1>MaxKreutzer on lytro.com</h1><p>Lytro is generating a video of your Living Picture. It may take a few minutes to post to your Facebook feed. Thank you for your patience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7978ee2ccd3696438b3942697fc3aa1e0885fcc9.jpg"></article>]]></description>
