@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MaxKreutzer]]></title>
         <description><![CDATA[MaxKreutzer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxkreutzer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 15:10:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 15:10:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxkreutzer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12616f74-f032-4563-bc57-a84bfa541238.jpg">]]></description>
+            <link>https://thegrid.ai/maxkreutzer/58ff1cd0-078c-4886-ad46-fa04c56a565c/index.html</link>
+            <guid isPermaLink="false">58ff1cd0-078c-4886-ad46-fa04c56a565c</guid>
+            <pubDate>Wed, 23 Mar 2016 15:10:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66643abe-553b-408a-b950-29597f8cd870.jpg">]]></description>
-            <link>undefinedhttpwwwpostandcouriercomarticle20160319pc1216032998/index.html</link>
+            <link>https://thegrid.ai/maxkreutzer/httpwwwpostandcouriercomarticle20160319pc1216032998/index.html</link>
             <guid isPermaLink="false">b14f5e4e-e977-407c-8333-812c483bf427</guid>
             <pubDate>Wed, 23 Mar 2016 15:10:26 GMT</pubDate>
         </item>
